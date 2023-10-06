@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_4_Set_Map_Hash",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_4_Set_Map_Hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_4_Set_Map_Hash-Debug-200b4242da9f09dd13cc.json",
+					"name" : "Week_4_Set_Map_Hash",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/macbook/Desktop/T\u00e0i Li\u1ec7u/GitHub/DATA-STRUCTURE-ALGORITHM/Week 4 Set Map Hash/cmake-build-debug",
+		"source" : "/Users/macbook/Desktop/T\u00e0i Li\u1ec7u/GitHub/DATA-STRUCTURE-ALGORITHM/Week 4 Set Map Hash"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
