@@ -1,0 +1,6 @@
+# ninja log v5
+0	1628	1697516466370435491	CMakeFiles/Tree.dir/main.cpp.o	d05a294ee4a71a67
+957	1053	1697519117939782307	Tree	5a36f45bf5f779c3
+1	176	1697519250313371603	build.ninja	e841a03d86c97180
+7	1787	1697519092257478565	CMakeFiles/Tree.dir/94._Binary_Tree_Inorder_Traversal.cpp.o	b7dbdb9730739d6
+8	957	1697519117839688008	CMakeFiles/Tree.dir/222._Count_Complete_Tree_Nodes.cpp.o	d03957718a37fe81
