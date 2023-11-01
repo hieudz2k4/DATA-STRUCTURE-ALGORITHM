@@ -1,0 +1,13 @@
+"/Users/macbook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/macbook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/macbook/Desktop/Tài Liệu/GitHub/DATA-STRUCTURE-ALGORITHM/LeetCode Problem/Algorithm/Dynamic Programming" -B "/Users/macbook/Desktop/Tài Liệu/GitHub/DATA-STRUCTURE-ALGORITHM/LeetCode Problem/Algorithm/Dynamic Programming/cmake-build-debug"
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: Dynamic_Programming
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
