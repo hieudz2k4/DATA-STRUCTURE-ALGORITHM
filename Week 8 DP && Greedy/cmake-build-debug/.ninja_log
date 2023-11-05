@@ -1,0 +1,12 @@
+# ninja log v5
+2746	2887	1699200467369400743	Week_8_DP____Greedy	c450bcbe76a6c789
+0	2742	1699200467222185474	CMakeFiles/Week_8_DP____Greedy.dir/main.cpp.o	f982697a955ba801
+2	284	1699200577387362184	build.ninja	a239ab963105e2eb
+0	2305	1699200579744195473	CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o	2e3bcc3c30a9546f
+2323	2514	1699200579953155269	Week_8_DP____Greedy	cc85594f1831418d
+1	2675	1699202390304386517	CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o	2e3bcc3c30a9546f
+2675	2868	1699202390509705924	Week_8_DP____Greedy	cc85594f1831418d
+0	1617	1699202904169151782	CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o	2e3bcc3c30a9546f
+1618	1751	1699202904306169668	Week_8_DP____Greedy	cc85594f1831418d
+0	2075	1699203578211238603	CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o	2e3bcc3c30a9546f
+2078	2855	1699203578999415185	Week_8_DP____Greedy	cc85594f1831418d

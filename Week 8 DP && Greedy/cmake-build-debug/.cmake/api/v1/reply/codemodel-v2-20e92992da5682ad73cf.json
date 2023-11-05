@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_8_DP____Greedy",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_8_DP____Greedy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_8_DP____Greedy-Debug-b9c5cbf31352a88cc09b.json",
+					"name" : "Week_8_DP____Greedy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/macbook/Desktop/T\u00e0i Li\u1ec7u/GitHub/DATA-STRUCTURE-ALGORITHM/Week 8 DP && Greedy/cmake-build-debug",
+		"source" : "/Users/macbook/Desktop/T\u00e0i Li\u1ec7u/GitHub/DATA-STRUCTURE-ALGORITHM/Week 8 DP && Greedy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
