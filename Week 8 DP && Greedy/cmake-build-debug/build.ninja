@@ -55,6 +55,18 @@ build CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o: CX
   OBJECT_DIR = CMakeFiles/Week_8_DP____Greedy.dir
   OBJECT_FILE_DIR = CMakeFiles/Week_8_DP____Greedy.dir
 
+build CMakeFiles/Week_8_DP____Greedy.dir/GreedyAlgorithm.cpp.o: CXX_COMPILER__Week_8_DP____Greedy_unscanned_Debug /Users/macbook/Desktop/Tài$ Liệu/GitHub/DATA-STRUCTURE-ALGORITHM/Week$ 8$ DP$ &&$ Greedy/GreedyAlgorithm.cpp || cmake_object_order_depends_target_Week_8_DP____Greedy
+  DEP_FILE = CMakeFiles/Week_8_DP____Greedy.dir/GreedyAlgorithm.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Week_8_DP____Greedy.dir
+  OBJECT_FILE_DIR = CMakeFiles/Week_8_DP____Greedy.dir
+
+build CMakeFiles/Week_8_DP____Greedy.dir/DPAlgrorithm.cpp.o: CXX_COMPILER__Week_8_DP____Greedy_unscanned_Debug /Users/macbook/Desktop/Tài$ Liệu/GitHub/DATA-STRUCTURE-ALGORITHM/Week$ 8$ DP$ &&$ Greedy/DPAlgrorithm.cpp || cmake_object_order_depends_target_Week_8_DP____Greedy
+  DEP_FILE = CMakeFiles/Week_8_DP____Greedy.dir/DPAlgrorithm.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Week_8_DP____Greedy.dir
+  OBJECT_FILE_DIR = CMakeFiles/Week_8_DP____Greedy.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Week_8_DP____Greedy
@@ -63,7 +75,7 @@ build CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o: CX
 #############################################
 # Link the executable Week_8_DP____Greedy
 
-build Week_8_DP____Greedy: CXX_EXECUTABLE_LINKER__Week_8_DP____Greedy_Debug CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o
+build Week_8_DP____Greedy: CXX_EXECUTABLE_LINKER__Week_8_DP____Greedy_Debug CMakeFiles/Week_8_DP____Greedy.dir/LongestCommonSubsequence(LCS).cpp.o CMakeFiles/Week_8_DP____Greedy.dir/GreedyAlgorithm.cpp.o CMakeFiles/Week_8_DP____Greedy.dir/DPAlgrorithm.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/Week_8_DP____Greedy.dir
   POST_BUILD = :
