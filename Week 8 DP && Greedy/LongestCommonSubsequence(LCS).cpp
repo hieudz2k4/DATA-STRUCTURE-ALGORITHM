@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
@@ -27,10 +28,8 @@ int longestCommonSubsequence(string &a, string &b) {
     return dp[lengthA][lengthB];
 }
 
-/**
 int main() {
     string a, b;
     cin >> a >> b;
     cout << longestCommonSubsequence(a, b) << endl;
 }
- **/
