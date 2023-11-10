@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="UET" targetName="UET" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="043b2d05-f49a-436b-a3e4-36f2564e9f9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/Find if Path Exists in Graph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b12c290734c52b7b4a7c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b92c87de3ba2ac23f34e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-13T12-42-42-0659.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/.cmake/api/v1/reply/target-Graph-Debug-dd79b4ce26aa0564d119.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode Problem/Data Structure/Graph/Course Schedule.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2Xsj0iAsA3UXHutAQmwHSBfERts" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UET" TARGET_NAME="UET" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UET" RUN_TARGET_NAME="UET">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043b2d05-f49a-436b-a3e4-36f2564e9f9c" name="Changes" comment="" />
+      <created>1699424459636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699424459636</updated>
+      <workItem from="1699424462039" duration="5445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

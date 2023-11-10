@@ -1,0 +1,6 @@
+# ninja log v5
+18	315	1699416458602859063	build.ninja	7e7b70a71af733a4
+6	1649	1699415781275625651	CMakeFiles/Graph.dir/Course_Schedule.cpp.o	3414c14cfc4c980c
+1649	1770	1699415781400426128	Graph	eb7083e5f34a9175
+18	2633	1699416494240488924	CMakeFiles/Graph.dir/Find_if_Path_Exists_in_Graph.cpp.o	9ffa388f0b3c1659
+13	2765	1699416494370374421	CMakeFiles/Graph.dir/Course_Schedule.cpp.o	3414c14cfc4c980c
