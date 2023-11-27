@@ -5,7 +5,6 @@
 
 using namespace std;
 
-/*
 int v,e;
 vector<int> adj[1000];
 vector<int> topoSort;
@@ -20,7 +19,6 @@ void dfs(int u) {
     topoSort.push_back(u);
 }
 
-/*
 int main() {
     memset(visited, 0, sizeof visited);
     ifstream input("jobs.txt");
@@ -42,4 +40,3 @@ int main() {
     }
     return 0;
 }
-*/
